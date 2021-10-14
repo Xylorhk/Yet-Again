@@ -6,7 +6,12 @@ ModelImporter:
   - first:
       74: 1827226128182048838
     second: Idle
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PrisonerMat
+    second: {fileID: 2100000, guid: a18b47947f3193b4091bb0b8e77e9679, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
