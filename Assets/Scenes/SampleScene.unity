@@ -273,10 +273,30 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7165305056214074445, guid: ac5ecfd893f8e354db6e1f510232cede, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a18b47947f3193b4091bb0b8e77e9679, type: 2}
+    - target: {fileID: -5207965310808492495, guid: ac5ecfd893f8e354db6e1f510232cede, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a18b47947f3193b4091bb0b8e77e9679, type: 2}
+    - target: {fileID: -4816808085839657164, guid: ac5ecfd893f8e354db6e1f510232cede, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a18b47947f3193b4091bb0b8e77e9679, type: 2}
     - target: {fileID: 919132149155446097, guid: ac5ecfd893f8e354db6e1f510232cede, type: 3}
       propertyPath: m_Name
       value: Prisoner Final
       objectReference: {fileID: 0}
+    - target: {fileID: 1605582140542920187, guid: ac5ecfd893f8e354db6e1f510232cede, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a18b47947f3193b4091bb0b8e77e9679, type: 2}
+    - target: {fileID: 2140385740634704952, guid: ac5ecfd893f8e354db6e1f510232cede, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a18b47947f3193b4091bb0b8e77e9679, type: 2}
     - target: {fileID: 5866666021909216657, guid: ac5ecfd893f8e354db6e1f510232cede, type: 3}
       propertyPath: m_Avatar
       value: 
@@ -285,6 +305,10 @@ PrefabInstance:
       propertyPath: m_Controller
       value: 
       objectReference: {fileID: 9100000, guid: a90a3d0f8d5992841a2f5ed483a47d66, type: 2}
+    - target: {fileID: 8990767969270046883, guid: ac5ecfd893f8e354db6e1f510232cede, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a18b47947f3193b4091bb0b8e77e9679, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ac5ecfd893f8e354db6e1f510232cede, type: 3}
 --- !u!1 &223974226
@@ -535,7 +559,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 6b1086c6c3531b844a02bc7849c1bd21, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -617,7 +641,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 6b1086c6c3531b844a02bc7849c1bd21, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -824,7 +848,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 6b1086c6c3531b844a02bc7849c1bd21, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1503,7 +1527,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 6b1086c6c3531b844a02bc7849c1bd21, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2076,7 +2100,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 6b1086c6c3531b844a02bc7849c1bd21, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2171,7 +2195,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 6b1086c6c3531b844a02bc7849c1bd21, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
