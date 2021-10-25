@@ -1,0 +1,7 @@
+For Standard, install Post Processing via the Package Manager for correct rendering of example scene, then import DCEP_SD.unitypackage. If post-processing is broken in example scene, restart Unity.
+
+For Universal Render Pipeline, make sure Universal Render Pipeline is installed correctly in your Unity project, then import DCEP_URP.unitypackage.
+
+For High-Definition Render Pipeline, make sure High-Definition Render Pipeline is installed correctly in your Unity project, then import DCEP_HDRP.unitypackage.
+
+Linear lighting is recommended for all versions.
