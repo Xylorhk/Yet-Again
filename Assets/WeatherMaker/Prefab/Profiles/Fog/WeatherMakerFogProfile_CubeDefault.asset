@@ -13,12 +13,12 @@ MonoBehaviour:
   m_Name: WeatherMakerFogProfile_CubeDefault
   m_EditorClassIdentifier: 
   FogMode: 3
-  FogDensity: 0.02
+  FogDensity: 0.017
   FogFactorMultiplier: 1
   FogStartDepth: 228
   FogEndDepth: 100000
-  FogColor: {r: 1, g: 0.65492415, b: 0.40943396, a: 0.48235294}
-  FogEmissionColor: {r: 0.6698113, g: 0.36472356, b: 0.18577784, a: 0.21960784}
+  FogColor: {r: 1, g: 1, b: 1, a: 0.48235294}
+  FogEmissionColor: {r: 1, g: 0.48887524, b: 0.107547104, a: 0.21960784}
   FogGradientColor:
     serializedVersion: 2
     key0: {r: 1, g: 1, b: 1, a: 0}
@@ -114,7 +114,7 @@ MonoBehaviour:
   FogNoiseVelocity: {x: -15, y: 20, z: -40}
   FogNoiseVelocityRotation: {x: 0, y: 0, z: 0, w: 0}
   WindEffectsFogNoiseVelocity: 0
-  FogNoiseSampleCount: 32
+  FogNoiseSampleCount: 5
   DitherLevel: 0
   FogShadowSampleCount: 0
   FogShadowMaxRayLength: 300

@@ -45,9 +45,9 @@ MonoBehaviour:
   VolumetricCloudDirLightRaySampleCount: 0
   VolumetricCloudDirLightRayDither: 0.5
   VolumetricCloudDirLightRayFalloffMultiplier: 1
-  VolumetricCloudShadowDownsampleScale: 4
-  VolumetricCloudAllowReflections: 1
-  VolumetricCloudReflectionShadows: 1
+  VolumetricCloudShadowDownsampleScale: 8
+  VolumetricCloudAllowReflections: 0
+  VolumetricCloudReflectionShadows: 0
   VolumetricCloudShadowMapMinPower: 1
   AtmosphereQuality: 0
   AtmosphericLightShaftSampleCount: 0
@@ -55,12 +55,12 @@ MonoBehaviour:
   AuroraSampleCount: 42
   AuroraSubSampleCount: 4
   EnablePrecipitationCollision: 0
-  EnablePerPixelLighting: 1
-  FogDownsampleScale: 2
-  FogDownsampleScaleFullScreenShafts: 2
+  EnablePerPixelLighting: 0
+  FogDownsampleScale: 8
+  FogDownsampleScaleFullScreenShafts: 8
   FogTemporalReprojectionSize: 0
-  EnableFogLights: 0
-  FogFullScreenSunShaftSampleCount: 16
+  EnableFogLights: 1
+  FogFullScreenSunShaftSampleCount: 0
   FogNoiseSampleCount: 32
   FogShadowSampleCount: 0
   WaterEnableCaustics: 1

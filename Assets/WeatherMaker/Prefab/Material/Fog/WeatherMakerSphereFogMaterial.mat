@@ -104,7 +104,7 @@ Material:
     - _FogSpherePosition: {r: 0, g: 0, b: 0, a: 0}
     - _WeatherMakerFogBoxCenter: {r: 0, g: 0, b: 0, a: 0}
     - _WeatherMakerFogColor: {r: 1, g: 1, b: 1, a: 1}
-    - _WeatherMakerFogNoiseVelocity: {r: 2.0217834, g: 3.369642, b: 4.7174997, a: 0}
+    - _WeatherMakerFogNoiseVelocity: {r: 0.492366, g: 0.8206099, b: 1.1488538, a: 0}
     - _WeatherMakerFogSpherePosition: {r: 0, g: 0, b: 0, a: 0}
     - _WeatherMakerFogVolumePower: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
