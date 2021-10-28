@@ -25,12 +25,12 @@ MonoBehaviour:
     m_Value: {x: 0.5, y: 0.5}
   intensity:
     m_OverrideState: 1
-    m_Value: 0.47
+    m_Value: 0.34
     min: 0
     max: 1
   smoothness:
     m_OverrideState: 1
-    m_Value: 0.15
+    m_Value: 0.9
     min: 0.01
     max: 1
   rounded:
@@ -46,7 +46,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
-  m_Name: Global Volume Profile
+  m_Name: ExpansGlobal Cave Profile
   m_EditorClassIdentifier: 
   components:
   - {fileID: -4483574730259414730}
@@ -68,15 +68,15 @@ MonoBehaviour:
   m_AdvancedMode: 0
   threshold:
     m_OverrideState: 1
-    m_Value: 0.9
+    m_Value: 1.25
     min: 0
   intensity:
     m_OverrideState: 1
-    m_Value: 0.25
+    m_Value: 4.6
     min: 0
   scatter:
-    m_OverrideState: 0
-    m_Value: 0.7
+    m_OverrideState: 1
+    m_Value: 1
     min: 0
     max: 1
   clamp:
@@ -120,10 +120,10 @@ MonoBehaviour:
   m_AdvancedMode: 0
   postExposure:
     m_OverrideState: 1
-    m_Value: 3.28
+    m_Value: 1
   contrast:
     m_OverrideState: 1
-    m_Value: -4
+    m_Value: 10
     min: -100
     max: 100
   colorFilter:
@@ -139,6 +139,6 @@ MonoBehaviour:
     max: 180
   saturation:
     m_OverrideState: 1
-    m_Value: -12
+    m_Value: 0
     min: -100
     max: 100
