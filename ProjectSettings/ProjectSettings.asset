@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: Xylorhk
-  productName: Master's Project
+  productName: Test Scene
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -131,9 +131,8 @@ PlayerSettings:
   preloadedAssets:
   - {fileID: 0}
   - {fileID: 0}
-  - {fileID: 11400000, guid: 1d726b7edb00d9e48abf03e68265dd11, type: 2}
   - {fileID: 0}
-  - {fileID: 578252775975137527, guid: b09aceab165b1c540ba1cf63ca848d12, type: 2}
+  - {fileID: 11400000, guid: 1d726b7edb00d9e48abf03e68265dd11, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
